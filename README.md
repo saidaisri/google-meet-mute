@@ -11,8 +11,11 @@
 
 [webstore-url]: https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
 
-Influenced by
-Meet Mute https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
-Google Meet Mute Toggler https://chrome.google.com/webstore/detail/google-meet-mute-toggler/fkdppolbkpdoebdhflolnnkeiaoblfjc
+## Influenced by
+> Meet Mute 
+> https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
+
+> Google Meet Mute Toggler
+> https://chrome.google.com/webstore/detail/google-meet-mute-toggler/fkdppolbkpdoebdhflolnnkeiaoblfjc
 
 Icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
