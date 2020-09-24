@@ -28,7 +28,7 @@
     }
   ],
   "browser_action": {
-    "default_icon": "icons/icon19.png",
+    "default_icon": "icons/icon16.png",
     "default_title": "Disconnected"
   },
   "permissions": [
