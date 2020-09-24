@@ -11,4 +11,4 @@
 
 [webstore-url]: https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
 
-Icons made by [<a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>]
+Icons made by <a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
