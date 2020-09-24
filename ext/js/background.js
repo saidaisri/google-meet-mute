@@ -66,7 +66,6 @@ function assessTabs() {
     // If xxx-xxxx-xxx meets are all closed, stop the alarm and reset icon and badge
     if (count == 0) {
       chrome.alarms.clear("3sec");
-      // chrome.browserAction.setIcon({ path: "M_gray128.png" });
       chrome.browserAction.setBadgeText({ text: '' });
     }
 
