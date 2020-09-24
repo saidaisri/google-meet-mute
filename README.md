@@ -10,3 +10,5 @@
 [<img src="install.png" width="175px">][webstore-url]
 
 [webstore-url]: https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
+
+Icons made by [<a href="https://smashicons.com/" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>]
