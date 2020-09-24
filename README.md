@@ -9,7 +9,7 @@
 
 [<img src="install.png" width="175px">][webstore-url]
 
-[webstore-url]: https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
+[webstore-url]: https://chrome.google.com/webstore/detail/google-meet-mute/nnjmhmkohajomkpncmoakephgemkldkm
 
 ## Influenced by
 > Meet Mute 
