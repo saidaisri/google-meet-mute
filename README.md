@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/mattsimonis/meet-mute/master/logo.png" alt="Meet Mute" style="max-width:100%;" width="64" height="64">
+<img src="logo.png" alt="Meet Mute" style="max-width:100%;" width="64" height="64">
 </p>
 
 <h1 align="center">Google Meet Mute</h1>
