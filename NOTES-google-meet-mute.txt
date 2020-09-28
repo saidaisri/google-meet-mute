@@ -1,0 +1,7 @@
+https://www.google.com/search?rlz=1C1GCEB_enIN884IN884&sxsrf=ALeKk03_omzt56E6WYsKNRoilMax7aZhgA%3A1601019356990&ei=3J1tX4CHPPWc4-EPxaCtgAM&q=chrome+extension+send+and+receive+message+from+windows+native+application&oq=chrome+extension+send+and+receive+message+from+windows+native+application&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCAAQsQM6AggAOgcIABAUEIcCOgYIABAWEB46CAghEBYQHRAeOgUIIRCgAToECCEQFToECCEQClDS7QZYh6YIYOWoCGgCcAJ4AIABwQKIAepHkgEJMC4yMy4yMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiA5bTw5YPsAhV1zjgGHUVQCzAQ4dUDCA0&uact=5
+
+https://stackoverflow.com/questions/35313648/how-to-send-receive-message-between-chrome-extension-native-messaging-and-c-sh
+
+https://stackoverflow.com/questions/30880709/c-sharp-native-host-with-chrome-native-messaging
+
+https://stackoverflow.com/questions/27643892/native-messaging-from-chrome-extension-to-native-host-written-in-c-sharp
